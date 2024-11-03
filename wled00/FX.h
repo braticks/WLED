@@ -314,8 +314,10 @@
 #define FX_MODE_WAVESINS               184
 #define FX_MODE_ROCKTAVES              185
 #define FX_MODE_2DAKEMI                186
+#define FX_MODE_ZALGIRIS_TEXT          187
+#define FX_MODE_ZALIA_BALTA_PULSE      188
 
-#define MODE_COUNT                     187
+#define MODE_COUNT                     189
 
 typedef enum mapping1D2D {
   M12_Pixels = 0,
